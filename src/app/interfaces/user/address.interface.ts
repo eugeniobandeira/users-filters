@@ -1,4 +1,4 @@
-export class IAddress {
+export interface IAddress {
   rua: string;
   numero: number;
   cidade: string;
